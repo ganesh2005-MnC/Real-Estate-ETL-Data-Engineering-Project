@@ -1,0 +1,5 @@
+*.csv
+*.parquet
+data/
+
+!sample_data/*.csv
